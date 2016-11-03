@@ -1,0 +1,2 @@
+ALTER SERVER ROLE AvailabilityRole ADD MEMBER Danni ;
+GO
